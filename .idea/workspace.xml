@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4289e611-e35d-4d0a-9495-d533fda478e1" name="Changes" comment="" />
+    <list default="true" id="4289e611-e35d-4d0a-9495-d533fda478e1" name="Changes" comment="Add 2 print lines as report heading">
+      <change beforePath="D:/idea-project/Comp3111LEx/.idea/workspace.xml" beforeDir="false" afterPath="D:/idea-project/Comp3111LEx/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,8 @@
     "last_opened_file_path": "D:/idea-project/Comp3111LEx",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -78,6 +81,23 @@
       <option name="presentableId" value="Default" />
       <updated>1725937933732</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx Project">
+      <option name="closed" value="true" />
+      <created>1725940160614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940160614</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add 2 print lines as report heading">
+      <option name="closed" value="true" />
+      <created>1725940318545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940318545</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,5 +122,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
+    <MESSAGE value="Add 2 print lines as report heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
   </component>
 </project>
